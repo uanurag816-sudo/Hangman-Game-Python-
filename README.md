@@ -18,5 +18,5 @@ A simple text-based Hangman game built with Python.
 python hangman.py
 ```
 
-## Author
-Your Name
+#Author
+Harsh upadhyay
